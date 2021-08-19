@@ -1,5 +1,5 @@
 # complete_bom_with_price
-按照一下步骤生成完整的BOM：
+按照以下步骤生成完整的BOM：
 
 1. 从ERP中获取设计BOM
 
